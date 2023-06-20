@@ -1,0 +1,7 @@
+# Rock-Paper-Scissor
+It is a text based Rock-Paper-Scissor game 
+
+It is a text based,
+Rock - Paper - Scissor game.
+Where you have to choose something between rock paper and scissor 
+and the computer will choose next and after that the comparison will be done and the winner is declared.
